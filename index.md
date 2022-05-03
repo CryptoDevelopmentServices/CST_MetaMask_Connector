@@ -4,17 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name = "keywords" content = "Crypto, CDS, Crypto Development Services" />
+    <meta name = "keywords" content = "Crypto, CDS, Crypto Development Services, CST, CryptoSwapToken" />
     <meta name = "description" content = "Crypto Development Services" />
 
 
 
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.cryptodevservices.com/" />
-    <meta property="og:image" content="https://www.cryptodevservices.com/images/favicon/favicon.png" />
-    <meta property="og:description" content="CDS stands for Crypto Development Services, This Connector Adds the BSC mainnet to metamask if you don't already have it along with Crypto Development Services and logo" />
+    <meta property="og:image" content="https://cryptodevelopmentservices.github.io/CST_MetaMask_Connector/img/cst.png" />
+    <meta property="og:description" content="CST stands for CryptoSwapToken, This Connector Adds the BSC mainnet to metamask if you don't already have it along with CryptoSwapToken and logo" />
 
-    <title>Crypto Development Services - Metamask Connector</title>
+    <title>CryptoSwapToken - Metamask Connector</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -38,16 +38,16 @@
               <div class="tm-section-wrap">
                 <section id="intro" class="tm-section">
                     <div class="tm-bg-grey-transparent tm-intro">
-                      <h2 class="tm-section-title mb-5 text-uppercase tm-color-primary">Get connected to the Binance Smart Chain Network and add Crypto Development Services</h2>
+                      <h2 class="tm-section-title mb-5 text-uppercase tm-color-primary">Get connected to the Binance Smart Chain Network and add CryptoSwapToken</h2>
                         <ul class="list-steps">
                           <li class="list-steps__item wow fadeInLeftSmall" data-wow-delay=".1s">
                             <div class="list-steps__item-counter"></div>
                             <div class="list-steps__item-divider"></div>
                             <div class="list-steps__item-main">
                               <h4><a href="#">MetaMask one click and add</a></h4>
-                                <button class="connectMetaMask">Enable Binance Smart Chain & Add CDS</button>
+                                <button class="connectMetaMask">Enable Binance Smart Chain & Add CST</button>
 
-                                <p>Want to help keep Crypto Development Services connectors running?</p>
+                                <p>Want to help keep CryptoSwapToken connector running?</p>
                                 <p>You now can by using the pay with metamask function below</p>
                                 <button class="tip-button"></button>
                             </div>
@@ -60,11 +60,11 @@
       <div class="social-media-icons">
         <a class="icon" href="https://twitter.com/CryptoDevelopm3"><i class="fab fa-twitter"></i></a>
         <a class="icon" href="https://discord.gg/xUZNT9Zzcp"><i class="fab fa-discord"></i></a>
-        <a class="icon" href="https://github.com/CryptoDevelopmentServices/Multi-Token_MetaMask-Connector"><i class="fab fa-github"></i></a>
+        <!-- <a class="icon" href="https://github.com/CryptoDevelopmentServices/Multi-Token_MetaMask-Connector"><i class="fab fa-github"></i></a> -->
       </div>
 
       <div class="company-name">
-        <span style="color:#000"> Did you know, We have a <a href="https://cryptodevelopmentservices.github.io/CDS_MetaMask_Connector_MATIC/" target="_blank">Polygon </a><img src="./img/polygon.png" width="20px"> and a <a href="https://cryptodevelopmentservices.github.io/CDS_MetaMask_Connector_AVAX/" target="_blank">Avalanche </a> <img src="./img/avax.png" width="20px"> version of this connector</span> <br>
+        <!-- <span style="color:#000"> Did you know, We have a <a href="https://cryptodevelopmentservices.github.io/CDS_MetaMask_Connector_MATIC/" target="_blank">Polygon </a><img src="./img/polygon.png" width="20px"> and a <a href="https://cryptodevelopmentservices.github.io/CDS_MetaMask_Connector_AVAX/" target="_blank">Avalanche </a> <img src="./img/avax.png" width="20px"> version of this connector</span> <br> -->
         <span style="color:#000">Created by <a href="https://www.cryptodevservices.com/" target="_blank">Crypto Development Services</a> <img src="./img/cds.png" width="20px"></span> <br>
         <span style="color:#000">© Crypto Development Services, All rights reserved.</span>
       </div>
